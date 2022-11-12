@@ -9,3 +9,4 @@ Collection of full stack applications<hr>
 
 Credits:
 - (Tutorial): https://www.youtube.com/watch?v=nu_pCVPKzTk
+- (Movie DB): https://developers.themoviedb.org/3/getting-started/introduction
