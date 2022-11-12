@@ -12,7 +12,7 @@ Application Link:
 
 Replit:
 - Front-End: https://replit.com/@RichardChen7/MovieSiteWebApp#index.html
-- Back-End (Moview Review Api): https://replit.com/@RichardChen7/ReviewBackend#index.js
+- Back-End (Movie Review Api): https://replit.com/@RichardChen7/ReviewBackend#index.js
 
 Credits:
 - (Tutorial): https://www.youtube.com/watch?v=nu_pCVPKzTk
