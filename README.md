@@ -7,6 +7,8 @@ Collection of full stack applications<hr>
   <li>The application allows user to search movies by title, and see the reviews of a selected movie</li>
 </ul>
 
+Website: https://moviessitewebapp-frontend--richardchen7.repl.co/
+
 Replit:
 - Front-End: https://replit.com/@RichardChen7/MovieSiteWebApp#index.html
 - Back-End (Moview Review Api): https://replit.com/@RichardChen7/ReviewBackend#index.js
