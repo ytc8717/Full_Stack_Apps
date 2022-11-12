@@ -1,4 +1,4 @@
 # Full Stack Apps
 Collection of full stack applications
-<br>
+<hr>
 - Movie Site Web App
