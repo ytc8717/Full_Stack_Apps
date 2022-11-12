@@ -1,3 +1,3 @@
 # Full Stack Apps
 Collection of full stack applications<hr>
-- Movie Site Web App
+<h2>Movies Site Web App</h2>
