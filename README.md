@@ -1,2 +1,2 @@
 # Full Stack Apps
-Collection of full stack applications<hr>
+Collection of full stack applications
