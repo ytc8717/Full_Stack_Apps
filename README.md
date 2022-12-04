@@ -1,6 +1,6 @@
 # Full Stack Apps
 Collection of full stack applications<hr>
-<h3>Movies Site Web App (HTML, CSS, JavaScript, Node.js, Express, MongoDB)</h3>
+<h3>Movies Site Web App (HTML, CSS, JavaScript, Node.js, Express.js, MongoDB)</h3>
 <ul>
   <li>Developed a website that shows all the trending movies from the movies database using HTML, CSS, and JavaScript</li>
   <li>Created a backend api to create movie reviews using Node.js, Express, and MongoDB</li>
