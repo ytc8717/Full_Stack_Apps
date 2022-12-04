@@ -14,6 +14,6 @@ Replit:
 - Front-End: https://replit.com/@RichardChen7/MovieSiteWebApp#index.html
 - Back-End (Movie Review Api): https://replit.com/@RichardChen7/ReviewBackend#index.js
 
-Credits:
-- (Tutorial): https://www.youtube.com/watch?v=nu_pCVPKzTk
-- (Movie DB): https://developers.themoviedb.org/3/getting-started/introduction
+Reference:
+- https://www.youtube.com/watch?v=nu_pCVPKzTk
+- https://developers.themoviedb.org/3/getting-started/introduction
