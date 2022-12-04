@@ -6,11 +6,7 @@
 </ul>
 
 Application Link: 
-- https://moviessitewebapp-frontend--richardchen7.repl.co/
-
-Replit:
-- Front-End: https://replit.com/@RichardChen7/MovieSiteWebApp#index.html
-- Back-End (Movie Review Api): https://replit.com/@RichardChen7/ReviewBackend#index.js
+- https://moviessitewebapp-frontend--richardchen7.repl.co
 
 Reference:
 - https://www.youtube.com/watch?v=nu_pCVPKzTk
