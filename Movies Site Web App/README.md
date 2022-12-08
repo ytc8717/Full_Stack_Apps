@@ -9,5 +9,4 @@ Application Link:
 - https://moviessitewebapp-frontend--richardchen7.repl.co
 
 Reference:
-- https://www.youtube.com/watch?v=nu_pCVPKzTk
 - https://developers.themoviedb.org/3/getting-started/introduction
